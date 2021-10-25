@@ -22,6 +22,8 @@ function FavoriteItem(props: Props) {
   return (
     <Container>
       <Title size={24}>{props.data.title}</Title>
+      <Title size={24}>{props.data.title}</Title>
+      <Title size={24}>{props.data.title}</Title>
 
       <RateContainer>
         <Ionicons name="md-star" size={12} color="#E7A74E" />
